@@ -29,3 +29,7 @@ php artisan optimize:clear && php artisan migrate
 npm run dev
 
 php artisan serve
+
+
+composer require laravel/breeze --dev
+php artisan breeze:install blade
