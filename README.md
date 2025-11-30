@@ -24,3 +24,8 @@ php artisan make:model Category -mcr
 php artisan route:list
 
 php artisan optimize:clear && php artisan migrate
+
+
+npm run dev
+
+php artisan serve
